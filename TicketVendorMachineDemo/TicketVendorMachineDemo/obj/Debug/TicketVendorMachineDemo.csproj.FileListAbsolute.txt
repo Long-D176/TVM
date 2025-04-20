@@ -1,0 +1,10 @@
+C:\repos\TicketVendorMachineDemo\TicketVendorMachineDemo\obj\Debug\TicketVendorMachineDemo.csproj.AssemblyReference.cache
+C:\repos\TicketVendorMachineDemo\TicketVendorMachineDemo\obj\Debug\TicketVendorDemo.Form1.resources
+C:\repos\TicketVendorMachineDemo\TicketVendorMachineDemo\obj\Debug\TicketVendorMachineDemo.Properties.Resources.resources
+C:\repos\TicketVendorMachineDemo\TicketVendorMachineDemo\obj\Debug\TicketVendorMachineDemo.csproj.GenerateResource.cache
+C:\repos\TicketVendorMachineDemo\TicketVendorMachineDemo\obj\Debug\TicketVendorMachineDemo.csproj.CoreCompileInputs.cache
+C:\repos\TicketVendorMachineDemo\TicketVendorMachineDemo\bin\Debug\TicketVendorMachineDemo.exe.config
+C:\repos\TicketVendorMachineDemo\TicketVendorMachineDemo\bin\Debug\TicketVendorMachineDemo.exe
+C:\repos\TicketVendorMachineDemo\TicketVendorMachineDemo\bin\Debug\TicketVendorMachineDemo.pdb
+C:\repos\TicketVendorMachineDemo\TicketVendorMachineDemo\obj\Debug\TicketVendorMachineDemo.exe
+C:\repos\TicketVendorMachineDemo\TicketVendorMachineDemo\obj\Debug\TicketVendorMachineDemo.pdb
